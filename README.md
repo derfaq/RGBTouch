@@ -1,4 +1,4 @@
-## RGBTouch
+﻿## RGBTouch
 Ejemplo de uso de la librería ADCTouch para Arduino; podés encontrarla en el
 *library manager* o bajarla e instalarla manualmente desde [acá](https://github.com/martin2250/ADCTouch).
 > Observación: como estoy usando [platformio](http://platformio.org/) para programar, el scketch para el ide de arduino lo podes encontrar en este repositorio en /src/RGBTouch.cpp, simplemente copiá y pega el código.
@@ -15,6 +15,7 @@ a través del puerto serie al acercar y tocar con la mano los cables, me encontr
 sorpresa que estos variaban aproximadamente entre -5...260 (tocando el cable con aislación),
 valores ideales para pasarlos directamente a analogWrite().
 
-### El circuito
+### El circuito  
+![esquemático](/fritzing/RGBTouch_bb.png)  
 
 ### Más
