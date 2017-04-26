@@ -18,4 +18,9 @@ valores ideales para pasarlos directamente a analogWrite().
 ### El circuito  
 ![esquemático](/fritzing/RGBTouch_bb.png)  
 
+### Et voilà!
+![et voilà](/img/GIF_daylight.gif)
+
 ### Más
+Para una explicación mas detallada del código y la librería visitá el [blog](https://derfaq.github.io/).  
+Sugerencias, aportes, issues, pulls requests, es bienvenido y se agradece.
