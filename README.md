@@ -1,7 +1,8 @@
-﻿## RGBTouch
-Ejemplo de uso de la librería ADCTouch para Arduino; podés encontrarla en el
+## RGBTouch  
+
+Ejemplo de uso de la librería **ADCTouch** para Arduino; podés encontrarla en el
 *library manager* o bajarla e instalarla manualmente desde [acá](https://github.com/martin2250/ADCTouch).
-> Observación: como estoy usando [platformio](http://platformio.org/) para programar, el scketch para el ide de arduino lo podes encontrar en este repositorio en /src/RGBTouch.cpp, simplemente copiá y pega el código.
+> Observación: Este repositorio esta organizado para usarse en [PlatformIO](http://platformio.org/). También está disponible el archivo para [Fitzing](http://fritzing.org/home/) junto con el sketch .ino.
 
 ### Descripción
 ADCTouch es una librería que nos permite crear un sensor capacitivo sin ningún circuito externo,
@@ -22,5 +23,5 @@ valores ideales para pasarlos directamente a analogWrite().
 ![et voilà](/img/GIF_daylight.gif)
 
 ### Más
-Para una explicación mas detallada del código y la librería visitá el [blog](https://derfaq.github.io/).  
+Para una explicación mas detallada del código y la librería visitá el [blog](https://derfaq.github.io/2017-04-26-RGBTouch/). 
 Sugerencias, aportes, issues, pulls requests, es bienvenido y se agradece.

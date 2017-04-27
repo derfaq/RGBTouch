@@ -3,7 +3,7 @@
   Controla el color de un led RGB conectado a los pines 9,10 y 11, acercando o
   alejando la mano a 3 cables conectados a A0, A1 y A2.
   El circuito:
-  * 3 cables de 20 cm aprox.
+  * 3 cables de 10 cm aprox.
   * 3 resistencias de 220 ohm, para limitar la corriente del led
   * 1 led rgb de 5mm, cátodo común (-)
 
